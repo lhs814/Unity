@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/MonsterCtrl.cs">
+    <Files>
+      <File FileName="Assets/02.Scripts/PlayerCtrl.cs" Line="59" Column="1" />
+      <File FileName="Assets/02.Scripts/BulletCtrl.cs" Line="16" Column="41" />
+      <File FileName="Assets/02.Scripts/RemoveBullet.cs" Line="26" Column="32" />
+      <File FileName="Assets/02.Scripts/FireCtrl.cs" Line="43" Column="84" />
+      <File FileName="Assets/02.Scripts/BarrelExp.cs" Line="53" Column="23" />
+      <File FileName="Assets/02.Scripts/MonsterCtrl.cs" Line="44" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceShooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="02.Scripts" expanded="True">
+                <Node name="MonsterCtrl.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fed3fce1-d9aa-482f-968e-ec47331b8b89" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
